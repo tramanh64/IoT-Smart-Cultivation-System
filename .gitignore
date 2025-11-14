@@ -1,0 +1,8 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Arduino build files
+build/
+*.bin
+*.elf
+*.hex
