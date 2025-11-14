@@ -8,17 +8,20 @@ Below are images of the final hardware prototype and the Blynk mobile dashboard.
 
 ### Hardware
 The completed circuit includes the ESP32, sensors, 16x2 LCD, relay, and pump, all mounted on a prototype board.
-*(Hình ảnh từ file: `<img width="401" height="535" alt="image" src="https://github.com/user-attachments/assets/6ea43765-5a67-43d1-9f13-d798393ee1d3" />
-`)*
 
-![Project Hardware]()
+
+<img width="401" height="535" alt="image" src="https://github.com/user-attachments/assets/eaeec1ac-1484-422a-ae91-53a2cb2d5973" />
+
 
 ### Blynk Dashboard
 A custom dashboard built in the Blynk app for remote monitoring and control. The app displays real-time data and includes controls for the water pump and automation mode.
-*(Hình ảnh từ file: `image_b2ea4b.png`)*
 
-![Blynk App Dashboard](<img width="329" height="706" alt="image" src="https://github.com/user-attachments/assets/19667fb0-d373-48ef-a936-1b157a08a098" />
-)
+
+<img width="329" height="706" alt="image" src="https://github.com/user-attachments/assets/49e2af6a-4a99-4fbe-89d7-96fb986208b0" />
+
+### Web Dashboard
+A custom-built web dashboard using HTML, CSS, and JavaScript (Chart.js) to visualize all real-time sensor data and historical trends in a user-friendly interface.
+<img width="1251" height="808" alt="image" src="https://github.com/user-attachments/assets/54f679f3-7022-459e-8883-dbf348c27f16" />
 
 ## Core Functions
 
